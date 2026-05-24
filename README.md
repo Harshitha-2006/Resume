@@ -1,7 +1,2 @@
-I am a Computer Science (AI & ML) student with strong project-based experience in Python
-development, particularly in building AI and GenAI applications using Retrieval-Augmented
-Generation (RAG) and agentic workflows.
-
-My career goal is to grow as a Python Developer, working on AI and machine learning–driven
-applications while strengthening system design, model understanding, and real-world AI
-deployment skills.
+I am a Computer Science(AI&ML) student with strong Python programming skills and hands-on experience in Machine Learning,Generative AI,Agentic AI and Retrieval-Augmented Generation(RAG). 
+I am a ServiceNow Certified System Administrator(CSA) and Certified Application Developer(CAD),with knowledge of ServiceNow platform administration and application development.My goal is to build intelligent software solutions by combining AI technologies with modern development practices.
